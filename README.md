@@ -2,7 +2,7 @@
 
 **Early identification of stroke risk using demographic, clinical, and lifestyle features**
 
-![Stroke Risk Banner](https://via.placeholder.com/1200x400/007BFF/FFFFFF?text=Stroke+Risk+Prediction+Capstone)  
+(https://via.placeholder.com/1200x400/007BFF/FFFFFF?text=Stroke+Risk+Prediction+Capstone)  
 
 ## Project Overview
 
