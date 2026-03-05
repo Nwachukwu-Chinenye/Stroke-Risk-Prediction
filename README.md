@@ -1,4 +1,4 @@
-# Stroke Risk Prediction – Machine Learning Capstone Project
+# Stroke Risk Prediction ~ Machine Learning Capstone Project
 
 **Early identification of stroke risk using demographic, clinical, and lifestyle features**
 
@@ -120,7 +120,7 @@ Dataset: [Healthcare Dataset Stroke Data](https://www.kaggle.com/datasets/fedeso
 
 - SMOTE may generate unrealistic synthetic samples
 - No external validation / prospective data
-- Dataset from ~2015–2020 → population shifts possible
+- Dataset from ~2015–2020 ~ population shifts possible
 - No cost-sensitive learning (false negatives much more expensive than false positives)
 
 **Future improvements**
